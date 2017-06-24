@@ -1,0 +1,1 @@
+This repo is for a Memory game create with HTML, CSS, and JavaScript
